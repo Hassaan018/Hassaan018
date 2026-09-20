@@ -13,5 +13,5 @@ I am a BS Computer Science student at SZABIST University Islamabad with a strong
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hassaan018&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Hassaan018&icon=0&color=white)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Hassaan018&color=white)](https://visitcount.itsvg.in)
 
